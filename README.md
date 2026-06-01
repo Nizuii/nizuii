@@ -29,7 +29,7 @@
 ### 📫 Socials
 
 <p>
-  <a href="www.linkedin.com/in/nizamudheen-kn">
+  <a href="https://www.linkedin.com/in/nizamudheen-kn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/niz.uii/">
